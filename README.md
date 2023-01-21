@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Janis and I'm a software engineer from DaLian, China.
+My name is Janis and I'm a software engineer from Dalian, China.
 
 - 💼 I'm currently working at **[Liferay](https://liferay.com)**.
 - 🌱 I’m currently learning ![Java](https://img.shields.io/badge/-Java-F8F8FF?style=flat&logo=coffeescript&logoColor=FFA500)
