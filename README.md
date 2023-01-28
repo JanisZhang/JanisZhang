@@ -2,7 +2,6 @@
 My name is Janis and I'm a software engineer from Dalian, China.
 
 - 💼 I'm currently working at **[Liferay](https://liferay.com)**.
-- 🌱 I’m currently learning ![Java](https://img.shields.io/badge/-Java-F8F8FF?style=flat&logo=coffeescript&logoColor=FFA500)
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/jiadi-z-31a488227/)**. 
 
 ## 📈 GitHub Analytics
