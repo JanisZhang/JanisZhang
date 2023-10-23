@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm a software engineer from Dalian, China.
-
 ## 📈 GitHub Analytics
 
 <p align="left">
